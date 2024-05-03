@@ -6,6 +6,3 @@ seaborn
 joblib
 numpy
 scikit-learn
-altair
-streamlit-option-menu
-on-Hover-tabs
